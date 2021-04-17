@@ -1,6 +1,6 @@
-# OpenUp-Sis-Code-Clan-SheHacksDTU
-OpenUp was built by Riya Bansal, Nandika Arora and Shagun Uppal as a part of SheHacks DTU 2021 conducted by CLIMB DTU
-Open Up is an online emotional support platform providing a group of qualified psychologists.No matter who you are or where you live or what you’re going through, we will be here to listen to you and care for you.Before  proceeding into chat , you will first be required to give the depression quiz.after the quiz, you will get to know the results that whether you have:
+# HealYourself-Sis-Code-Clan-SheHacksDTU
+Heal Yourself! was built by Riya Bansal, Nandika Arora, Shagun Uppal and Ayushee Agarwal as a part of SheHacks DTU 2021 conducted by CLIMB DTU
+Heal Yourself! is an online emotional support platform providing a group of qualified psychologists.No matter who you are or where you live or what you’re going through, we will be here to listen to you and care for you.Before  proceeding into chat , you will first be required to give the depression quiz.after the quiz, you will get to know the results that whether you have:
 MILD DEPRESSION
 SEVERE DEPRESSION
 SADNESS
