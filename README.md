@@ -1,10 +1,10 @@
-# HealYourself-Sis-Code-Clan-SheHacksDTU
-Heal Yourself! was built by Riya Bansal, Nandika Arora, Shagun Uppal and Ayushee Agarwal.
-Heal Yourself! is an online emotional support platform providing a group of qualified psychologists.No matter who you are or where you live or what you’re going through, we will be here to listen to you and care for you.Before  proceeding into chat , you will first be required to give the depression quiz.after the quiz, you will get to know the results that whether you have:
-### MILD DEPRESSION
-### SEVERE DEPRESSION
-### SADNESS
-### NORMAL
+# OpenUp-Sis-Code-Clan-SheHacksDTU
+OpenUp was built by Riya Bansal, Nandika Arora and Shagun Uppal as a part of SheHacks DTU 2021 conducted by CLIMB DTU
+Open Up is an online emotional support platform providing a group of qualified psychologists.No matter who you are or where you live or what you’re going through, we will be here to listen to you and care for you.Before  proceeding into chat , you will first be required to give the depression quiz.after the quiz, you will get to know the results that whether you have:
+MILD DEPRESSION
+SEVERE DEPRESSION
+SADNESS
+NORMAL
 After the quiz, you can go to chat with us and then you will be assigned  the Psycologist according to your Result!
 NOW you will get in touch with your assigned psychologist who will listen you and guide you!
 For data security, we are planning to add "CRYPTOGRAPHY" Hashmap Algorithm.Since our main purpose is to keep the identity confedential, we will be using this for storing the message without revealing the identity and its chats  as well.We are also preparing different rooms for different users.Incase the psychologist is not available and talking to any other client,the client will have to wait for the psychologist to enter the room.We are also adding:
